@@ -1,2 +1,2 @@
-echo #!/bin/bash
-echo ls -la. ../boot
+#!/bib/bash
+ls -la. ../boot
