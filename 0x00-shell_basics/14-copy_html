@@ -1,2 +1,2 @@
-echo #!/bin/bash
-echo cp -u *.html ../
+#!/bin/bash
+cp -u *.html ../
